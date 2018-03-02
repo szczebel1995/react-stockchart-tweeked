@@ -11,9 +11,30 @@
         "type": "range"
       },
       "C:\\Users\\bitla\\Desktop\\DubieX\\dubiex"
+    ],
+    [
+      {
+        "raw": "react-stockcharts@git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+        "scope": null,
+        "escapedName": "react-stockcharts",
+        "name": "react-stockcharts",
+        "rawSpec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+        "spec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:szczebel1995/react-stockchart-tweeked.git",
+          "sshUrl": "git+ssh://git@github.com/szczebel1995/react-stockchart-tweeked.git",
+          "httpsUrl": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+          "gitUrl": "git://github.com/szczebel1995/react-stockchart-tweeked.git",
+          "shortcut": "github:szczebel1995/react-stockchart-tweeked",
+          "directUrl": "https://raw.githubusercontent.com/szczebel1995/react-stockchart-tweeked/master/package.json"
+        }
+      },
+      "C:\\Users\\bitla\\Documents\\dubiex-webserver\\dubiex"
     ]
   ],
-  "_from": "react-stockcharts@>=0.7.0-beta.23 <0.8.0",
+  "_from": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
   "_id": "react-stockcharts@0.7.0-beta.23",
   "_inCache": true,
   "_location": "/react-stockcharts",
@@ -37,22 +58,31 @@
     "d3-time-format": "2.1.1"
   },
   "_requested": {
-    "raw": "react-stockcharts@^0.7.0-beta.23",
+    "raw": "react-stockcharts@git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
     "scope": null,
     "escapedName": "react-stockcharts",
     "name": "react-stockcharts",
-    "rawSpec": "^0.7.0-beta.23",
-    "spec": ">=0.7.0-beta.23 <0.8.0",
-    "type": "range"
+    "rawSpec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+    "spec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:szczebel1995/react-stockchart-tweeked.git",
+      "sshUrl": "git+ssh://git@github.com/szczebel1995/react-stockchart-tweeked.git",
+      "httpsUrl": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+      "gitUrl": "git://github.com/szczebel1995/react-stockchart-tweeked.git",
+      "shortcut": "github:szczebel1995/react-stockchart-tweeked",
+      "directUrl": "https://raw.githubusercontent.com/szczebel1995/react-stockchart-tweeked/master/package.json"
+    }
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-stockcharts/-/react-stockcharts-0.7.0-beta.23.tgz",
-  "_shasum": "c0ef954befc668c9a16778103f3f2282a20fa4c2",
+  "_resolved": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git#1ccb695417b017a8af160582632675d157089bb9",
+  "_shasum": "1318533976a7a8d35a59a9616cc79ab5b47d1d79",
   "_shrinkwrap": null,
-  "_spec": "react-stockcharts@^0.7.0-beta.23",
-  "_where": "C:\\Users\\bitla\\Desktop\\DubieX\\dubiex",
+  "_spec": "react-stockcharts@git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+  "_where": "C:\\Users\\bitla\\Documents\\dubiex-webserver\\dubiex",
   "author": {
     "name": "Ragu Ramaswamy"
   },
@@ -85,6 +115,7 @@
     "tarball": "https://registry.npmjs.org/react-stockcharts/-/react-stockcharts-0.7.0-beta.23.tgz"
   },
   "esnext": "es/index.js",
+  "gitHead": "1ccb695417b017a8af160582632675d157089bb9",
   "homepage": "http://rrag.github.io/react-stockcharts/",
   "keywords": [
     "charts",
