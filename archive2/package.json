@@ -1,0 +1,164 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-stockcharts@^0.7.0-beta.23",
+        "scope": null,
+        "escapedName": "react-stockcharts",
+        "name": "react-stockcharts",
+        "rawSpec": "^0.7.0-beta.23",
+        "spec": ">=0.7.0-beta.23 <0.8.0",
+        "type": "range"
+      },
+      "C:\\Users\\bitla\\Desktop\\DubieX\\dubiex"
+    ],
+    [
+      {
+        "raw": "react-stockcharts@git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+        "scope": null,
+        "escapedName": "react-stockcharts",
+        "name": "react-stockcharts",
+        "rawSpec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+        "spec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:szczebel1995/react-stockchart-tweeked.git",
+          "sshUrl": "git+ssh://git@github.com/szczebel1995/react-stockchart-tweeked.git",
+          "httpsUrl": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+          "gitUrl": "git://github.com/szczebel1995/react-stockchart-tweeked.git",
+          "shortcut": "github:szczebel1995/react-stockchart-tweeked",
+          "directUrl": "https://raw.githubusercontent.com/szczebel1995/react-stockchart-tweeked/master/package.json"
+        }
+      },
+      "C:\\Users\\bitla\\Documents\\dubiex-webserver\\dubiex"
+    ]
+  ],
+  "_from": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+  "_id": "react-stockcharts@0.7.0-beta.23",
+  "_inCache": true,
+  "_location": "/react-stockcharts",
+  "_nodeVersion": "8.9.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-stockcharts-0.7.0-beta.23.tgz_1517397194360_0.6567194026429206"
+  },
+  "_npmUser": {
+    "name": "rrag",
+    "email": "ragunath.ramaswamy@gmail.com"
+  },
+  "_npmVersion": "5.5.1",
+  "_phantomChildren": {
+    "d3-array": "1.2.1",
+    "d3-collection": "1.0.4",
+    "d3-color": "1.0.3",
+    "d3-format": "1.2.2",
+    "d3-interpolate": "1.1.6",
+    "d3-time": "1.0.8",
+    "d3-time-format": "2.1.1"
+  },
+  "_requested": {
+    "raw": "react-stockcharts@git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+    "scope": null,
+    "escapedName": "react-stockcharts",
+    "name": "react-stockcharts",
+    "rawSpec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+    "spec": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:szczebel1995/react-stockchart-tweeked.git",
+      "sshUrl": "git+ssh://git@github.com/szczebel1995/react-stockchart-tweeked.git",
+      "httpsUrl": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+      "gitUrl": "git://github.com/szczebel1995/react-stockchart-tweeked.git",
+      "shortcut": "github:szczebel1995/react-stockchart-tweeked",
+      "directUrl": "https://raw.githubusercontent.com/szczebel1995/react-stockchart-tweeked/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/szczebel1995/react-stockchart-tweeked.git#1ccb695417b017a8af160582632675d157089bb9",
+  "_shasum": "1318533976a7a8d35a59a9616cc79ab5b47d1d79",
+  "_shrinkwrap": null,
+  "_spec": "react-stockcharts@git+https://github.com/szczebel1995/react-stockchart-tweeked.git",
+  "_where": "C:\\Users\\bitla\\Documents\\dubiex-webserver\\dubiex",
+  "author": {
+    "name": "Ragu Ramaswamy"
+  },
+  "bugs": {
+    "url": "https://github.com/rrag/react-stockcharts/issues"
+  },
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "d3-collection": "^1.0.4",
+    "d3-force": "^1.1.0",
+    "d3-format": "^1.2.1",
+    "d3-interpolate": "^1.1.6",
+    "d3-path": "^1.0.5",
+    "d3-scale": "^1.0.7",
+    "d3-selection": "^1.2.0",
+    "d3-shape": "^1.2.0",
+    "d3-time": "^1.0.8",
+    "d3-time-format": "^2.1.1",
+    "debug": "^3.1.0",
+    "lodash.flattendeep": "^4.4.0",
+    "prop-types": "^15.6.0",
+    "save-svg-as-png": "^1.2.0"
+  },
+  "description": "Highly customizable stock charts with ReactJS and d3",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-skwlzg8n18+771+h8B9O3z6H5rrgfmu5nwQmU77L9M5uFUUOcNxC7TgORR76s+dFYWrL0rcwK5d4f8ZI1BA4yA==",
+    "shasum": "c0ef954befc668c9a16778103f3f2282a20fa4c2",
+    "tarball": "https://registry.npmjs.org/react-stockcharts/-/react-stockcharts-0.7.0-beta.23.tgz"
+  },
+  "esnext": "es/index.js",
+  "gitHead": "1ccb695417b017a8af160582632675d157089bb9",
+  "homepage": "http://rrag.github.io/react-stockcharts/",
+  "keywords": [
+    "charts",
+    "charting",
+    "stockcharts",
+    "finance",
+    "financechart",
+    "react",
+    "ReactJS",
+    "d3",
+    "react-component",
+    "react-charts",
+    "chart-components",
+    "javascript-finance-chart",
+    "javascript-stockchart",
+    "data-visualization",
+    "data-viz",
+    "d3-finance-chart",
+    "d3-stockchart"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "rrag",
+      "email": "ragunath.ramaswamy@gmail.com"
+    },
+    {
+      "name": "shprink",
+      "email": "contact@julienrenaux.fr"
+    }
+  ],
+  "module": "es/index.js",
+  "name": "react-stockcharts",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0",
+    "react-dom": "^15.0.0 || ^16.0.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrag/react-stockcharts.git"
+  },
+  "version": "0.7.0-beta.23"
+}
